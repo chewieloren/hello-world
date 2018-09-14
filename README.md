@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+Here you will see how to put a commit message
